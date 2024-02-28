@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.todo-container{
+    width: 600px;
+    height: 250px;
+    /* background-color: aqua; */
+    margin-left: 30%;
+    margin-top: 30px;
+    border-radius: 5px;
+    box-shadow: 0 0 15px 5px darkgray;
+
+
+
+}
+
+#taskInput {
+    width: 585px;
+    height: 22px;
+    margin-left: 4px;
+}
+
+#addButton {
+    width: 585px;
+    margin-top: 7px;
+    margin-left: 3px;
+    height: 26px;
+    border-radius: 4px;
+    border: none;
+    color: white;
+    background-color: #243bec;
+}
